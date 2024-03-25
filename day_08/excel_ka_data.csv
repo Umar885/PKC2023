@@ -1,0 +1,17 @@
+,C,Third,woman,false,Unnamed: 4,Cherbourg,yes,true
+0,S,Second,man,True,,Southampton,no,True
+1,S,Second,man,True,D,Southampton,yes,True
+2,Q,Third,child,False,,Queenstown,yes,True
+3,S,First,man,True,A,Southampton,yes,True
+4,S,Third,child,False,,Southampton,no,False
+5,S,Third,woman,False,,Southampton,yes,False
+6,C,Third,man,True,,Cherbourg,no,True
+7,S,First,man,True,C,Southampton,no,False
+8,Q,Third,woman,False,,Queenstown,yes,True
+9,S,Third,man,True,,Southampton,no,True
+10,C,First,man,True,,Cherbourg,no,True
+11,C,First,woman,False,B,Cherbourg,yes,False
+12,Q,Third,woman,False,,Queenstown,yes,True
+13,S,Second,man,True,,Southampton,no,True
+14,C,First,man,True,,Cherbourg,no,False
+15,S,First,man,True,,Southampton,no,False
